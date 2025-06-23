@@ -55,7 +55,6 @@ Demonstrar na prática como configurar uma pipeline de **Integração Contínua 
    ```bash
    go test -v ./...
    ```
-
 ---
 
 ## Curso Alura
