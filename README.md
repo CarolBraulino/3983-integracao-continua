@@ -61,7 +61,8 @@ Demonstrar na prática como configurar uma pipeline de **Integração Contínua 
 
 Este projeto foi desenvolvido durante o curso:
 
-> **Integração Contínua: automatize testes e entregas com GitHub Actions**  
+> **Integração Contínua: pipelines e testes automatizados com GitHub Actions**  
+
 > Plataforma: [Alura](https://www.alura.com.br/)
 
 ---
